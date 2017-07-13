@@ -1,15 +1,15 @@
 {
-  "name": "gulp-asset-rev",
-  "version": "0.0.15",
+  "name": "ge-asset-rev",
+  "version": "1.0.0",
   "description": "replace asset's filename by adding file hash",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hellopao/gulp_plugin.git"
+    "url": "git+https://github.com/ct-team/ge-asset-rev.git"
   },
   "author": {
-    "name": "qinjia",
-    "email": "qinjia@outlook.com"
+    "name": "daixl",
+    "email": "328581342@qq.com"
   },
   "engines": {
     "node": ">=0.12.0"
@@ -27,31 +27,19 @@
     "gulp-util": "^3.0.0",
     "through2": "^0.6.1"
   },
-  "homepage": "https://github.com/hellopao/gulp_plugin",
-  "_id": "gulp-asset-rev@0.0.15",
-  "_from": "gulp-asset-rev@latest",
+  "homepage": "https://github.com/ct-team/ge-asset-rev.git",
+  "_id": "ge-asset-rev@1.0.0",
+  "_from": "ge-asset-rev@latest",
   "bugs": {
-    "url": "https://github.com/hellopao/gulp_plugin/issues"
+    "url": "https://github.com/ct-team/issues"
   },
   "scripts": {},
-  "_shasum": "13db5215c5afeb1ce05cc9b108ec9807d73cab7f",
-  "_npmVersion": "3.3.6",
-  "_nodeVersion": "5.0.0",
-  "_npmUser": {
-    "name": "qinjia",
-    "email": "qinjia@outlook.com"
-  },
-  "dist": {
-    "shasum": "13db5215c5afeb1ce05cc9b108ec9807d73cab7f",
-    "tarball": "https://registry.npmjs.org/gulp-asset-rev/-/gulp-asset-rev-0.0.15.tgz"
-  },
   "maintainers": [
     {
-      "name": "qinjia",
-      "email": "qinjia@outlook.com"
+      "name": "daixl",
+	"email": "328581342@qq.com"
     }
   ],
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/gulp-asset-rev/-/gulp-asset-rev-0.0.15.tgz",
+  "directories": {},  
   "readme": "ERROR: No README data found!"
 }
