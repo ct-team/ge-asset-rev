@@ -1,6 +1,6 @@
 {
   "name": "ge-asset-rev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replace asset's filename by adding file hash",
   "license": "MIT",
   "repository": {
@@ -28,7 +28,7 @@
     "through2": "^0.6.1"
   },
   "homepage": "https://github.com/ct-team/ge-asset-rev.git",
-  "_id": "ge-asset-rev@1.0.0",
+  "_id": "ge-asset-rev@1.0.1",
   "_from": "ge-asset-rev@latest",
   "bugs": {
     "url": "https://github.com/ct-team/issues"
